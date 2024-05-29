@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "freedb_creative_english",
+    "password": "6nsD*4!!%3Wd?P4",
+    "database": "freedb_creative_english",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "test": {
+    "username": "freedb_creative_english",
+    "password": "6nsD*4!!%3Wd?P4",
+    "database": "freedb_creative_english",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "production": {
+    "username": "freedb_creative_english",
+    "password": "6nsD*4!!%3Wd?P4",
+    "database": "freedb_creative_english",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": "3306"
+  }
+}
